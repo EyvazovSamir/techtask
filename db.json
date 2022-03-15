@@ -1,0 +1,46 @@
+{
+  "access": [
+    {
+      "id": "test@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "fullName": "Vasiliy",
+      "email": "test1@gmail.coываывавы",
+      "phone": "+797798988989"
+    },
+    {
+      "id": "2",
+      "fullName": "John Doe",
+      "email": "test1@gmail.co",
+      "phone": "+797798988989"
+    },
+    {
+      "id": "1625761443123",
+      "fullName": "fgfdg",
+      "email": "fgdf",
+      "phone": "fdgfdg"
+    },
+    {
+      "id": "1641900710075",
+      "fullName": "fgdf fgf ss sd ds",
+      "email": "dsfsdf@",
+      "phone": "53535353535"
+    },
+    {
+      "id": "1641900721244",
+      "fullName": "fgdf fgf ss sd ds",
+      "email": "dsfsdf@",
+      "phone": "53535353535"
+    },
+    {
+      "id": "1641900728338",
+      "fullName": "fgdf fgf ss sd ds5553",
+      "email": "dsfsdf@35353",
+      "phone": "5353535353533535"
+    }
+  ]
+}
